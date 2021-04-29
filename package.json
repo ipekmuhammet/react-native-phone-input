@@ -4,7 +4,7 @@
   "description": "Phone input box for React Native",
   "main": "dist/index.js",
   "scripts": {
-    "build": "./bin/build.sh",
+    "build": "sh ./bin/build.sh",
     "lint-fix": "./node_modules/.bin/eslint --quiet --ext .js,.jsx,.ts,.tsx --fix ./",
     "lint": "./node_modules/.bin/eslint --quiet --ext .js,.jsx,.ts,.tsx ./",
     "test": "./node_modules/.bin/mocha -r ./node_modules/ts-node/register -r tsconfig-paths/register --config .mocharc.js ./tests/**/*.test.ts --exit",
