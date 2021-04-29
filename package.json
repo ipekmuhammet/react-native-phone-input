@@ -43,7 +43,6 @@
     "@types/chai": "^4.2.12",
     "@types/mocha": "^5.2.7",
     "@types/react-native": "^0.63.48",
-    "@types/react-native-phone-input": "^0.2.1",
     "@typescript-eslint/eslint-plugin": "^2.12.0",
     "@typescript-eslint/parser": "^2.12.0",
     "chai": "^4.2.0",
